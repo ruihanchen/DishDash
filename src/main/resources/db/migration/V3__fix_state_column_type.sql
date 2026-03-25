@@ -1,0 +1,1 @@
+ALTER TABLE delivery_addresses ALTER COLUMN state TYPE VARCHAR(2);
